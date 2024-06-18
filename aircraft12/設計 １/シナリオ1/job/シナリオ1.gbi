@@ -1,0 +1,17 @@
+シナリオ1
+CFD 2024 ()
+Version 24.0.43
+
+*** Summary
+787149 4056823 8 63
+*** Coordinate System
+XYZ XYZ
+*** Properties
+2 "ABS (Polycarbonate)" 0 0
+3 "Air" 1 0
+-1 Blank
+*** Units
+cm
+*** Extruded Parts Summary
+0
+*** Nodes

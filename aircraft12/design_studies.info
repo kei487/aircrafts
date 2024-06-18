@@ -1,0 +1,7 @@
+<cfd_design_studies user_name="numer" version="24.0.43">
+ <design_study instance_id="752a71ff-f9c1-48be-891b-c291c169658f" folder="C:/Users/numer/OneDrive/ドキュメント/Inventor/tukuru/aircraft12" name="aircraft12" study_id="252735e7-7b5c-44de-830a-92392a87a2e5">
+  <design launcher_type="CP_INVENTOR" model_id="aircraft12.cfdsmt" name="設計 １" lock_status="true">
+   <analysis name="シナリオ1"/>
+  </design>
+ </design_study>
+</cfd_design_studies>

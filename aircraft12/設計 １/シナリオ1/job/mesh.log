@@ -1,0 +1,338 @@
+Model successfully read and processed
+Meshing constraints read successfully.
+(0) Surface Meshing started
+MeshCubeRefine
+MeshCubeRefine
+(1) Small Feature Detection started
+(1) 25% completed
+(1) 50% completed
+(1) 75% completed
+(2) Detect Close Edges started
+(2) 25% completed
+(2) 50% completed
+(2) 75% completed
+(2) 100% completed
+(2) Detect Close Edges finished: CPU time: 0.15625 s, clock time: 0.359 s
+(1) 100% completed
+(1) Small Feature Detection finished: CPU time: 0.171875 s, clock time: 0.484 s
+(1) Structured Meshing started
+(1) Structured Meshing finished: CPU time: 0 s, clock time: 0.001 s
+(1) Face Meshing started
+(1) Face Meshing 1/63
+tag = 1, type = Sphere -> CFdesign ID = 1
+(1) Face Meshing 2/63
+tag = 2, type = Sphere -> CFdesign ID = 2
+(1) Face Meshing 3/63
+tag = 3, type = Sphere -> CFdesign ID = 3
+(1) Face Meshing 4/63
+tag = 4, type = Sphere -> CFdesign ID = 4
+(1) Face Meshing 5/63
+tag = 5, type = Unknown -> CFdesign ID = 5
+(1) Face Meshing 6/63
+tag = 6, type = Unknown -> CFdesign ID = 6
+(1) Face Meshing 7/63
+tag = 7, type = Nurb -> CFdesign ID = 7
+(1) Face Meshing 8/63
+tag = 8, type = Plane -> CFdesign ID = 8
+(1) Face Meshing 9/63
+tag = 9, type = Unknown -> CFdesign ID = 9
+(1) Face Meshing 10/63
+tag = 10, type = Plane -> CFdesign ID = 10
+(1) Face Meshing 11/63
+tag = 11, type = Nurb -> CFdesign ID = 11
+(1) Face Meshing 12/63
+tag = 12, type = Plane -> CFdesign ID = 12
+(1) Face Meshing 13/63
+tag = 13, type = Nurb -> CFdesign ID = 13
+(1) Face Meshing 14/63
+tag = 14, type = Plane -> CFdesign ID = 14
+(1) Face Meshing 15/63
+tag = 15, type = Plane -> CFdesign ID = 15
+(1) Face Meshing 16/63
+tag = 16, type = Nurb -> CFdesign ID = 16
+(1) Face Meshing 17/63
+tag = 17, type = Unknown -> CFdesign ID = 17
+(1) Face Meshing 18/63
+tag = 18, type = Unknown -> CFdesign ID = 18
+(1) Face Meshing 19/63
+tag = 19, type = Unknown -> CFdesign ID = 19
+(1) Face Meshing 20/63
+tag = 20, type = Nurb -> CFdesign ID = 20
+(1) Face Meshing 21/63
+tag = 21, type = Plane -> CFdesign ID = 21
+(1) Face Meshing 22/63
+tag = 22, type = Plane -> CFdesign ID = 22
+(1) Face Meshing 23/63
+tag = 23, type = Nurb -> CFdesign ID = 23
+(1) Face Meshing 24/63
+tag = 24, type = Nurb -> CFdesign ID = 24
+(1) Face Meshing 25/63
+tag = 25, type = Nurb -> CFdesign ID = 25
+(1) Face Meshing 26/63
+tag = 26, type = Unknown -> CFdesign ID = 26
+(1) Face Meshing 27/63
+tag = 27, type = Unknown -> CFdesign ID = 27
+(1) Face Meshing 28/63
+tag = 28, type = Unknown -> CFdesign ID = 28
+(1) Face Meshing 29/63
+tag = 29, type = Unknown -> CFdesign ID = 29
+(1) Face Meshing 30/63
+tag = 30, type = Plane -> CFdesign ID = 30
+(1) Face Meshing 31/63
+tag = 31, type = Unknown -> CFdesign ID = 31
+(1) Face Meshing 32/63
+tag = 32, type = Plane -> CFdesign ID = 32
+(1) Face Meshing 33/63
+tag = 33, type = Nurb -> CFdesign ID = 33
+(1) Face Meshing 34/63
+tag = 34, type = Nurb -> CFdesign ID = 34
+(1) Face Meshing 35/63
+tag = 35, type = Nurb -> CFdesign ID = 35
+(1) Face Meshing 36/63
+tag = 36, type = Nurb -> CFdesign ID = 36
+(1) Face Meshing 37/63
+tag = 37, type = Nurb -> CFdesign ID = 37
+(1) Face Meshing 38/63
+tag = 38, type = Nurb -> CFdesign ID = 38
+(1) Face Meshing 39/63
+tag = 39, type = Nurb -> CFdesign ID = 39
+(1) Face Meshing 40/63
+tag = 40, type = Nurb -> CFdesign ID = 40
+(1) Face Meshing 41/63
+tag = 41, type = Unknown -> CFdesign ID = 41
+(1) Face Meshing 42/63
+tag = 42, type = Plane -> CFdesign ID = 42
+(1) Face Meshing 43/63
+tag = 43, type = Unknown -> CFdesign ID = 43
+(1) Face Meshing 44/63
+tag = 44, type = Plane -> CFdesign ID = 44
+(1) Face Meshing 45/63
+tag = 45, type = Plane -> CFdesign ID = 45
+(1) Face Meshing 46/63
+tag = 46, type = Unknown -> CFdesign ID = 46
+(1) Face Meshing 47/63
+tag = 47, type = Sphere -> CFdesign ID = 47
+(1) Face Meshing 48/63
+tag = 48, type = Sphere -> CFdesign ID = 48
+(1) Face Meshing 49/63
+tag = 49, type = Sphere -> CFdesign ID = 49
+(1) Face Meshing 50/63
+tag = 50, type = Sphere -> CFdesign ID = 50
+(1) Face Meshing 51/63
+tag = 51, type = Unknown -> CFdesign ID = 51
+(1) Face Meshing 52/63
+tag = 52, type = Unknown -> CFdesign ID = 52
+(1) Face Meshing 53/63
+tag = 53, type = Nurb -> CFdesign ID = 53
+(1) Face Meshing 54/63
+tag = 54, type = Plane -> CFdesign ID = 54
+(1) Face Meshing 55/63
+tag = 55, type = Unknown -> CFdesign ID = 55
+(1) Face Meshing 56/63
+tag = 56, type = Plane -> CFdesign ID = 56
+(1) Face Meshing 57/63
+tag = 57, type = Nurb -> CFdesign ID = 57
+(1) Face Meshing 58/63
+tag = 58, type = Plane -> CFdesign ID = 58
+(1) Face Meshing 59/63
+tag = 59, type = Plane -> CFdesign ID = 59
+(1) Face Meshing 60/63
+tag = 60, type = Plane -> CFdesign ID = 60
+(1) Face Meshing 61/63
+tag = 61, type = Plane -> CFdesign ID = 61
+(1) Face Meshing 62/63
+tag = 62, type = Plane -> CFdesign ID = 62
+(1) Face Meshing 63/63
+tag = 63, type = Plane -> CFdesign ID = 63
+(1) Face Meshing finished: CPU time: 3.60938 s, clock time: 8.768 s
+(1) Structured Meshing started
+(1) Structured Meshing finished: CPU time: 0 s, clock time: 0 s
+(1) Surface Mesh Improver started
+(2) Surface Mesh Improvement started
+(2) 25% completed
+(2) Surface Mesh Improvement finished: CPU time: 0.046875 s, clock time: 0.182 s
+(2) Surface Smoothing started
+(2) 25% completed
+(2) 50% completed
+(2) 75% completed
+(2) Surface Smoothing finished: CPU time: 0.46875 s, clock time: 0.914 s
+(2) Fix Surface Intersections started
+MeshCubeRefine
+MeshCubeRefine
+(2) Fix Surface Intersections finished: CPU time: 1.76563 s, clock time: 4.977 s
+(1) Surface Mesh Improver finished: CPU time: 2.28125 s, clock time: 6.091 s
+(0) Surface Meshing finished: CPU time: 7.09375 s, clock time: 17.869 s
+  Nodal Aspect Ratio Summary
+Surface 1: 2.69864
+Surface 2: 2.16588
+Surface 3: 2.28087
+Surface 4: 3.33429
+Surface 5: 5.54606
+Surface 6: 4.81099
+Surface 7: 2.56592
+Surface 8: 4.95495
+Surface 9: 8.86552
+Surface 10: 8.86552
+Surface 11: 2.65483
+Surface 12: 18.9135
+Surface 13: 8.47737
+Surface 14: 14.1058
+Surface 15: 14.2955
+Surface 16: 14.5657
+Surface 17: 18.9135
+Surface 18: 6.41394
+Surface 19: 14.5657
+Surface 20: 6.41394
+Surface 21: 8.47737
+Surface 22: 6.90013
+Surface 23: 6.11379
+Surface 24: 14.6434
+Surface 25: 6.36681
+Surface 26: 14.6434
+Surface 27: 6.41394
+Surface 28: 14.5657
+Surface 29: 3.01266
+Surface 30: 2.65483
+Surface 31: 2.5185
+Surface 32: 3.01266
+Surface 33: 42.4162
+Surface 34: 13.5649
+Surface 35: 9.37996
+Surface 36: 3247.13
+Surface 37: 18.979
+Surface 38: 16.9121
+Surface 39: 16.9121
+Surface 40: 12.1416
+Surface 41: 5.232
+Surface 42: 14.68
+Surface 43: 14.6434
+Surface 44: 14.1185
+Surface 45: 14.1037
+Surface 46: 14.68
+Surface 47: 3.03103
+Surface 48: 1.94505
+Surface 49: 2.19233
+Surface 50: 2.07255
+Surface 51: 5.73658
+Surface 52: 7.41488
+Surface 53: 3.01266
+Surface 54: 7.41488
+Surface 55: 6.02669
+Surface 56: 6.02669
+Surface 57: 2.45216
+Surface 58: 2.44593
+Surface 59: 2.26918
+Surface 60: 2.28446
+Surface 61: 2.28446
+Surface 62: 2.44593
+Surface 63: 2.40577
+Maximum nodal aspect ratio: 3247.13
+(0) Volume Meshing started
+(1) Structured Meshing started
+(1) Structured Meshing finished: CPU time: 0 s, clock time: 0 s
+(1) Creating volume mesh started
+MeshCubeRefine
+MeshCubeRefine
+(1) Creating volume mesh finished: CPU time: 14.2031 s, clock time: 38.499 s
+(1) Adapting Mesh started
+Iteration 1: Normalized edge length range: 4.26387 .. 0.0161114
+Iteration 2: Normalized edge length range: 3.18223 .. 0.0161114
+Iteration 3: Normalized edge length range: 2.38532 .. 0.0161114
+Iteration 4: Normalized edge length range: 1.78898 .. 0.0161114
+Final normalized edge length range: 1.44999 .. 0.0161114
+(1) Adapting Mesh finished: CPU time: 13.3594 s, clock time: 43.182 s
+(1) Volume Mesh Improver started
+(2) Volume Optimization started
+(2) Volume Optimization finished: CPU time: 7.60938 s, clock time: 21.544 s
+(2) Volume Smoothing started
+(2) 25% completed
+(2) 50% completed
+(2) 75% completed
+(2) Volume Smoothing finished: CPU time: 3.40625 s, clock time: 7.669 s
+(1) Volume Mesh Improver finished: CPU time: 11.1875 s, clock time: 29.725 s
+(0) Volume Meshing finished: CPU time: 38.75 s, clock time: 111.757 s
+Volume meshing peak memory usage is 2702.87 MBytes.
+Mesh Statistics
+Node count: 787149
+Element count: 4056823
+Minimum element volume: 0.0252757
+Maximum element volume: 1.03994e+07
+Total model volume: 7.2e+10
+  Nodal Aspect Ratio Summary
+Surface 1: 2.69864
+Surface 2: 3.1477
+Surface 3: 2.72561
+Surface 4: 3.33429
+Surface 5: 11.058
+Surface 6: 9.06057
+Surface 7: 2.74496
+Surface 8: 8.00547
+Surface 9: 14.5563
+Surface 10: 14.1345
+Surface 11: 2.65483
+Surface 12: 24.0944
+Surface 13: 8.47737
+Surface 14: 20.991
+Surface 15: 18.9552
+Surface 16: 16.0242
+Surface 17: 24.0944
+Surface 18: 6.62287
+Surface 19: 17.0808
+Surface 20: 11.3949
+Surface 21: 8.47737
+Surface 22: 6.88641
+Surface 23: 9.1882
+Surface 24: 15.4435
+Surface 25: 7.54334
+Surface 26: 15.9221
+Surface 27: 9.1882
+Surface 28: 16.0242
+Surface 29: 5.88658
+Surface 30: 3.9305
+Surface 31: 5.03826
+Surface 32: 3.4278
+Surface 33: 48.2554
+Surface 34: 28.2005
+Surface 35: 24.3101
+Surface 36: 5388.03
+Surface 37: 20.4983
+Surface 38: 35.8089
+Surface 39: 18.4867
+Surface 40: 14.2075
+Surface 41: 9.1882
+Surface 42: 23.8101
+Surface 43: 23.8101
+Surface 44: 18.2403
+Surface 45: 18.2403
+Surface 46: 17.9528
+Surface 47: 3.96655
+Surface 48: 3.96655
+Surface 49: 3.2125
+Surface 50: 3.2125
+Surface 51: 8.13406
+Surface 52: 13.0744
+Surface 53: 3.06139
+Surface 54: 13.0744
+Surface 55: 8.54774
+Surface 56: 8.54774
+Surface 57: 2.958
+Surface 58: 2.77801
+Surface 59: 2.74335
+Surface 60: 2.97506
+Surface 61: 2.57188
+Surface 62: 2.45321
+Surface 63: 3.08375
+Maximum nodal aspect ratio: 5388.03
+Meshing concluded.
+setUpwardAdjacencies = 3.56 sec
+interpolateExtrudedFaces = 0.22 sec
+interpolatePeriodicFaces = 0.00 sec
+addPeripheralFaces = 0.00 sec
+replicateMovingRegions = 0.00 sec
+splitFluidSolidInterfaces = 0.00 sec
+removeUnreferencedVertices = 0.05 sec
+Time to write model = 0.01 sec
+Time to write mesh = 3.33 sec
+Time to write GBI = 23.52 sec
+Time to free model entity memory = 0.00 sec
+Time to delete database = 3.95 sec
